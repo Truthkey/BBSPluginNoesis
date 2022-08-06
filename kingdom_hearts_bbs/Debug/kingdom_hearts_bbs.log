@@ -1,0 +1,27 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(74,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(74,32): error C2143: syntax error: missing ',' before '&'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(82,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(82,46): error C2143: syntax error: missing ',' before '&'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(129,19): error C3646: 'm': unknown override specifier
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(129,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(138,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(138,32): error C2143: syntax error: missing ',' before '&'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(146,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(146,46): error C2143: syntax error: missing ',' before '&'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(178,19): error C3646: 'm': unknown override specifier
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(178,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(522,74): error C2061: syntax error: identifier 'noeFSMode_e'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(523,55): error C2061: syntax error: identifier 'noeRAPI_t'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(537,12): error C2143: syntax error: missing ';' before '*'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(537,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(537,19): error C2238: unexpected token(s) preceding ';'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(744,22): error C2143: syntax error: missing ';' before '*'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(745): message : see reference to class template instantiation 'CArrayList<classType>' being compiled
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(744,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(744,1): error C2238: unexpected token(s) preceding ';'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(795,24): error C2061: syntax error: identifier 'FILE'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(803,23): error C2143: syntax error: missing ';' before '*'
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(803,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Noesis\bbs\kingdom_hearts_bbs\pluginclasses.h(803,32): error C2238: unexpected token(s) preceding ';'

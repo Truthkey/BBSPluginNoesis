@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  kingdom_hearts_bbs.cpp
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(200,23): warning C4018: '>=': signed/unsigned mismatch
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(200,59): warning C4018: '>=': signed/unsigned mismatch
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(230,33): warning C4018: '>=': signed/unsigned mismatch
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(315,43): warning C4244: '=': conversion from 'double' to 'uint8', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(316,43): warning C4244: '=': conversion from 'double' to 'uint8', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(317,43): warning C4244: '=': conversion from 'double' to 'uint8', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(348,44): warning C4244: '=': conversion from 'double' to 'uint8', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(349,44): warning C4244: '=': conversion from 'double' to 'uint8', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(350,44): warning C4244: '=': conversion from 'double' to 'uint8', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(406,31): warning C4018: '<': signed/unsigned mismatch
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(446,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(447,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(456,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(457,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(505,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(506,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(507,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Noesis\bbs\kingdom_hearts_bbs\kingdom_hearts_bbs.cpp(663,30): warning C4018: '>=': signed/unsigned mismatch
+  noesisplugin.cpp
+  pluginsupport.cpp
+     Creating library C:\Noesis\bbs\Release\kingdom_hearts_bbs.lib and object C:\Noesis\bbs\Release\kingdom_hearts_bbs.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 38 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  kingdom_hearts_bbs.vcxproj -> C:\Noesis\bbs\Release\kingdom_hearts_bbs.dll
